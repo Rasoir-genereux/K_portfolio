@@ -1,2 +1,2 @@
 # K_portfolio
-The principal page of my portfolios
+The principal page of my projects
