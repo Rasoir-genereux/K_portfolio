@@ -8,4 +8,4 @@ which is the Google data analysis cetification. Here is what I'm capable of for 
 # Projects
 1- [Data analysis](https://rasoir-genereux.github.io/Data-analysis-project_1/)
 
-
+![](/Project_1/Dashboard.png)
